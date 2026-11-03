@@ -1,5 +1,4 @@
 # Diabetic-Retinopathy-detection
-readme_content = """# Diabetic Retinopathy Classifier using Transfer Learning (VGG16)
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19.0-FF6F00?logo=tensorflow)](https://tensorflow.org)
 [![Colab](https://img.shields.io/badge/Colab-Notebook-F9AB00?logo=googlecolab)](https://colab.research.google.com)
